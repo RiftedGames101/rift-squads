@@ -8,4 +8,4 @@ A turn-based artillery battle game by Rifted Games.
 - iPhone: open the link in Safari, tap Share, then **Add to Home Screen**.
 - Android: open the link in Chrome, tap the menu, then **Install app**.
 
-Also on itch.io: https://rifted-games-101.itch.io
+Also on itch.io: https://rifted-games-101.itch.io/rift-squads
